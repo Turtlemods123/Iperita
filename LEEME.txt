@@ -1,0 +1,1 @@
+Para iniciar el instalador ejecuta el archivo "PeritaSurvival-Seguro"
